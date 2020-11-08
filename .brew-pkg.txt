@@ -1,0 +1,5 @@
+brew cask install iterm2
+brew cask install firefox skype google-chrome
+brew cask install iterm2 pycharm visual-studio-code dropbox
+brew install pyenv tmux mosh vim mactex
+
